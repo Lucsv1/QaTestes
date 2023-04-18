@@ -11,7 +11,7 @@
   </folder>
   <folder name="Motivation" id="id-087dfc676d6c40728d9d26821224972f" type="motivation">
     <element xsi:type="archimate:Driver" name="Driver" id="id-fe76b0aa22eb48b7bdd2e1cc6ee636cd"/>
-    <element xsi:type="archimate:Driver" name="Driver" id="id-2a18d0805f924168bda3813d135dbc4e"/>
+    <element xsi:type="archimate:Driver" name="Reduzir o deconhecimento dos problemas de produção" id="id-2a18d0805f924168bda3813d135dbc4e"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-c0896bc431824781880df1c48df1fa92" type="implementation_migration">
     <element xsi:type="archimate:WorkPackage" name="Work Package" id="id-1ee0dedc955c454e9869548b491aac06"/>
@@ -27,7 +27,7 @@
         <bounds x="60" y="48" width="193" height="79"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-8e0d46c1a8054fb09cc8df5b33669a1a" archimateElement="id-2a18d0805f924168bda3813d135dbc4e">
-        <bounds x="324" y="60" width="120" height="55"/>
+        <bounds x="372" y="48" width="181" height="79"/>
       </child>
     </element>
   </folder>
